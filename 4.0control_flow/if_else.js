@@ -46,3 +46,17 @@ const num = 1
 // }
 
 
+const isSingle = true
+const UserAge = 21
+const isActive = true
+const havingFBacc = false
+const havingEmailID = true
+if (isSingle && UserAge >= 18 && isActive) {
+    console.log("Allow to Create an account.");
+    if (havingEmailID || havingFBacc) {
+        console.log("Successfully Logged In..");
+    }
+}
+else {
+    console.log("Oops You cann't create an accoount.");
+}
