@@ -1,2 +1,2 @@
 # js-main
-A code repo for Java Script learning
+A code repo for learning Java Script fundamentally.
