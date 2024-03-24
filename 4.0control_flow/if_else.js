@@ -32,17 +32,17 @@ const age = 21
 // if (balance>5000) console.log("you have sufficient balance."), console.log(`Total amount : ${balance}`);
 
 
-const num = 1
-// if (num > 3) {
+const num = 100
+// if (num > 300) {
 //     console.log("Test1 Pass");
 // }
-// else if (num > 5) {
+// else if (num > 500) {
 //     console.log("Test2 Pass");
 // }
-// else if (num > 6) {
+// else if (num > 700) {
 //     console.log("Test3 Pass");
 // } else {
-//     console.log("Number is less then 10.");
+//     console.log("Number is less then 1000.");
 // }
 
 
