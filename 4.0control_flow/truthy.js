@@ -11,7 +11,6 @@ false == ""     => (true)
 
 
 
-/*
 // const userMailid = "kabir.org@gmail.com"
 // const userMailid = ""
 const userMailid = []
@@ -43,7 +42,7 @@ let val1;
 val1 = null ?? 7 ?? undefined ?? 10            // When it will get first value, it will return.
 
 console.log(val1);
-*/
+
 
 
 // Terniary Operator 
