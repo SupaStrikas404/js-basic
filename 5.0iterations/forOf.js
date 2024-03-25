@@ -1,4 +1,4 @@
-// for of 
+// for of Loop (High Order Array Loops)
 
 // ["", "", "", ""]
 // [{}, {}, {}, {}]
@@ -27,18 +27,11 @@ map.set('Fr', "France")
 // console.log(map);
 
 for (const [key, value] of map) {
-    // console.log(key, ":", value);
+    // console.log(key);
+    console.log(key, ":", value);
 }
 
-const myObject = {
-    js: 'JavaScript',
-    cpp: 'C++',
-    rs: 'Rust',
-    ts: 'TypeScript',
-    rb: 'Ruby'
-}
-
-for (const key in myObject) {
-    // console.log(myObject[key]);
-    console.log(`${key} is the shortcut of ${myObject[key]}`);
-}
+// Map is not Iterable in JavaScript can't iteration.
+// for (const key in map) {
+//     console.log(map[key]);
+// }
