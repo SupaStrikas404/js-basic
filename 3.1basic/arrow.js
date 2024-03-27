@@ -35,8 +35,8 @@ const site = () => {
 
 
 // Implicit Return 
-// const sumNumber = (n1, n2) => n1 + n2 
-const sumNumber = (n1, n2) => (n1 + n2)
+const sumNumber = (n1, n2) => n1 + n2 
+// const sumNumber = (n1, n2) => (n1 + n2)
 console.log(sumNumber(4, 6));
 
 // const myUser = (fName) => ({userName: "Kabir"})
