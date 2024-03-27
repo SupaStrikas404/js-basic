@@ -1,2 +1,2 @@
-# js-main(2.0)
+# js-basic
 A code repo for learning basic of Java Script.
